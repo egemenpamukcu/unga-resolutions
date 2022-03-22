@@ -1,1 +1,3 @@
-["A/RES/44/73"]
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed70916c872f47860e73ddffd48e783f7cab837efac2a62e9d32ca581d3432b0
+size 15
